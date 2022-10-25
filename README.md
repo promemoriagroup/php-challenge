@@ -16,7 +16,6 @@ VIDEO
 │   │   ├── Tape_35.0.mp4
 │   │   ├── Tape_38.0.mp4
 │   │   ├── Tape_11.0.mp4
-│   │   ├── Tape_11.0.mp4
 │   │   └── Tape_9.0.mp4       
 ```
 il CSV generato sarà:
